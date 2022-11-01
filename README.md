@@ -4,7 +4,7 @@
 
 ### to-do list
 
-[] mysql 연결
+[x] mysql 연결
 [] mongodb 연결
 [] redis 연결
 [] 도커 push 쉘 스크립트 작성
